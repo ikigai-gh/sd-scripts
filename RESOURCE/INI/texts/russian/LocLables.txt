@@ -4,27 +4,27 @@ Bermudes {Бермуды}
 Beliz {Юкатан}
 Cuba {Куба}
 Cuba1 {Куба}
-Cuba2 {}
+Cuba2 {Куба}
 Caiman {Кайман}
-Cumana {}
-Caracas {}
+Cumana {Кумана}
+Caracas {Каракас}
 Curacao {Кюрасао}
-Cartahena {}
+Cartahena {Картахена}
 Dominica {Доминика}
 Guadeloupe {Гваделупа}
 Hispaniola {Эспаньола}
 Hispaniola1 {Эспаньола}
-Hispaniola2 {}
+Hispaniola2 {Эспаньола}
 Jamaica {Ямайка}
-Maracaibo {}
+Maracaibo {Маракайбо}
 Martinique {Мартиника}
 SentMartin {Сан Мартин}
 Nevis {Невис}
 PuertoRico {Пуэрто-Рико}
-PortoBello {}
+PortoBello {Порто Белло}
 Pearl {Жемчужный Берег}
 Panama {Панама}
-SantaCatalina {}
+SantaCatalina {Санта-Каталина}
 Terks {Теркс}
 Tortuga {Тортуга}
 Trinidad {Тринидад и Тобаго}
