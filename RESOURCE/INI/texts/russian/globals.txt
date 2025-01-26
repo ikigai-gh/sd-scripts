@@ -1,0 +1,5 @@
+Address_Form_Spa {Сеньор}
+Address_Form_Fra {Месье}
+Address_Form_Eng {Сэр}
+Address_Form_Por {Сеньор}
+Address_Form_Hol {Минхер}

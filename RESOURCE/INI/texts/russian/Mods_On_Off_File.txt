@@ -1,0 +1,2 @@
+info {SalaryComplex_Coeff - множитель увеличения зарплаты офицеров и команды ( от 0.5 до +бесконечности)}
+SalaryComplex_Coeff {1.0}

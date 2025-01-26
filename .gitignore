@@ -1,0 +1,7 @@
+SAVE/
+RESOURCE/*
+!RESOURCE/INI/
+*.exe
+*.dll
+engine.ini
+options
