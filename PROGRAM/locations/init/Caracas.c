@@ -297,6 +297,7 @@ int LocationInitCaracas(int n)
 	locations[n].reload.l1.autoreload = "0";
 	locations[n].reload.l1.label = "Tavern";
 	locations[n].locators_radius.reload.reload1 = 0.8;
+	LAi_LocationFightDisable(&locations[n], true);	// Убивать оборотня по квесту Зачарованный город нельзя, иначе - софтлок!
 	n = n + 1;
 
  	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

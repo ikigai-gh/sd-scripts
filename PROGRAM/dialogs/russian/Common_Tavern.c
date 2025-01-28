@@ -1372,6 +1372,9 @@ void ProcessDialogEvent()
 			link.l1 = "Ох, и скорые вы ребята, как я посмотрю.";
 			link.l1.go = "exit";
 			AddDialogExitQuestFunction("MC_endCaracas");
+			// Теперь в комнате таверны можно обнажать оружие
+			iTemp = FindLocation("Caracas_tavern_upstairs");
+			LAi_LocationFightDisable(&locations[iTemp], false);
 		break;
 		
 		//*************************** Квест "Сопровождение флейта "Орион"" **********************
